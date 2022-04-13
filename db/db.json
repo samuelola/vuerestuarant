@@ -1,0 +1,66 @@
+{
+  "user": [
+    {
+      "name": "oladele",
+      "email": "oladele@gmail.com",
+      "password": "oladele",
+      "id": 1
+    },
+    {
+      "name": "ruth",
+      "email": "ruth@gmail.com",
+      "password": "ruth12",
+      "id": 2
+    },
+    {
+      "name": "james",
+      "email": "james@gmail.com",
+      "pasword": "",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "pasword": "",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "pasword": "",
+      "password": "123456",
+      "id": 5
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmail.com",
+      "pasword": "",
+      "password": "123456",
+      "id": 6
+    },
+    {
+      "name": "test3",
+      "email": "test3@gmail.com",
+      "pasword": "",
+      "password": "123456",
+      "id": 7
+    },
+    {
+      "name": "wolla",
+      "email": "wolla@gmail.com",
+      "pasword": "",
+      "password": "123456",
+      "id": 8
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "bla blah",
+      "contact": "no 1 programming street",
+      "address": "blah street",
+      "id": 4
+    }
+  ]
+}

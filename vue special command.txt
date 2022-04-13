@@ -1,0 +1,39 @@
+npm install -g vue-cli
+
+npm run serve
+
+for dummy database
+
+npm install -g json-server
+
+Create a db.json file with some data and make sure you put it into a folder
+
+paste this into the file
+
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
+
+then run this
+
+json-server --watch db.json
+
+https://stackoverflow.com/questions/57459917/how-to-fix-this-error-module-not-found-cant-resolve-popper-js
+
+for bootstrap5
+
+npm install @popperjs/core --save
+npm install bootstrap
+npm install jquery
+
+//////////////////////////////////////////////
+
+npm i bootstrap jquery popper.js --save (for bootstrap4)
+
+npm install vue-router@next
